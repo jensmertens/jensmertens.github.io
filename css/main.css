@@ -1,0 +1,22 @@
+
+body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.img-responsive{
+border-radius: 15px 50px 30px 1px;
+}
+h1,h4,h2,h3{
+
+    color: #FF7A00;
+    font-family: 'Slabo 27px', serif;
+    text-shadow: 1px 1px #000000;
+}
+h2,h3{
+    text-align: center
+}
+hr {
+    border-color: #FF7A00;
+}
+
